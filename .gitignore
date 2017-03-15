@@ -1,1 +1,2 @@
-'.~lock*'
+git ls-files-ix '.~lock*'
+*.txt
