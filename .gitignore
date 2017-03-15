@@ -1,2 +1,1 @@
-git ls-files-ix '.~lock*'
-git ls-files -ic --exclude-standard
+'.~lock*'
