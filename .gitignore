@@ -1,2 +1,2 @@
-git ls-files-ix '.~lock*'
+.~lock.Relatorio.odt#
 *.txt
