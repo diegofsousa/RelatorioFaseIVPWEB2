@@ -24,3 +24,4 @@ core_blocked.
 1.4. Areas/Habilidades
 Alteração.... hahah
 oiii
+Mais um
