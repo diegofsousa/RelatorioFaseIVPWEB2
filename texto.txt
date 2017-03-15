@@ -1,0 +1,24 @@
+1. Detalhamento do esquema de dados
+
+Ao todo, o esquema de banco de dados da plataforma FixCode tem 26 tabelas somando as tabelas escritas e migradas através do arquivo models.py e as tabelas pré-definidas pelo framework Django.
+Dentre as tabelas da aplicação, as que estão em maior relevância são: 
+
+auth_user;
+core_profile;
+core_followers;
+core_fixies;
+core_comentfixies;
+core_post
+core_comentpost;
+core_participations;
+core_favorites;
+core_areas;
+core_message;
+core_blocked.
+
+1.1. Usuários e perfis
+1.2. Política de seguidores
+1.3. Fixies e Posts
+1.3.1. Participações e Favoritos
+1.3.2 Notificações para os usuários
+1.4. Areas/Habilidades
