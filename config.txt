@@ -1,4 +1,0 @@
-Parágrafo: 12 pt
-Margem: Padrão (Apenas tecla TAB)
-Titulo: 12 pt, Caps ativado
-Itens no estilo "3.4.2."
